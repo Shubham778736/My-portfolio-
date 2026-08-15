@@ -36,10 +36,10 @@
 
 | Project | Description | Live Demo |
 |---|---|---|
-| ⌨️ **Typing Speed Test** | Real-time WPM & accuracy tracker | [Live](https://shubham778736.github.io/modern-typing-speed-test/) |
-| 💰 **Budget Planner** | Income & expense manager | [Live](https://shubham778736.github.io/budget-planner/) |
-| 🧮 **Simple Calculator** | Clean responsive calculator | [Live](https://shubham778736.github.io/calculator-project/) |
-| 📊 **Expense Tracker** | Daily spending monitor with LocalStorage | [Live](https://shubham778736.github.io/expense-tracker/) |
+| ⌨️ **Typing Speed Test** | Real-time WPM & accuracy tracker | [Live](https://shubhambhorade1.github.io/modern-typing-speed-test/) |
+| 💰 **Budget Planner** | Income & expense manager | [Live](https://shubhambhorade1.github.io/budget-planner/) |
+| 🧮 **Simple Calculator** | Clean responsive calculator | [Live](https://shubhambhorade1.github.io/calculator-project/) |
+| 📊 **Expense Tracker** | Daily spending monitor with LocalStorage | [Live](https://shubhambhorade1.github.io/expense-tracker/) |
 
 ---
 
