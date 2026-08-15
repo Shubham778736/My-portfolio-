@@ -2,9 +2,9 @@
 <h3 align="center">Frontend Developer | BCA Student | Pune, India</h3>
 
 <p align="center">
-  <a href="https://Shubham778736.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-ff6b6b?style=for-the-badge&logo=github" /></a>
+  <a href="https://shubhambhorade1.github.io"><img src="https://img.shields.io/badge/Portfolio-Live-ff6b6b?style=for-the-badge&logo=github" /></a>
   <a href="https://linkedin.com/in/shubham-bhorade"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:bhoradeshubham16@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ffd93d?style=for-the-badge&logo=gmail" /></a>
+  <a href="mailto:shubhambhorade1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-ffd93d?style=for-the-badge&logo=gmail" /></a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 - 💻 Passionate about building **responsive, user-friendly web apps**
 - 🌱 Improving skills in **JavaScript, Data Structures & AI**
 - 🏆 Certified in **AWS Generative AI Foundations** & **Infosys AI & Employability Skills**
-- 📫 Reach me at **bhoradeshubham16@gmail.com**
+- 📫 Reach me at **shubhambhorade1@gmail.com**
 
 ---
 
